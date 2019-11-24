@@ -10,7 +10,7 @@ public class camcon : MonoBehaviour {
 	public KeyCode rotateleft;
 	public KeyCode rotateright;
 
-	int acceleration = 50;
+	int acceleration = 42;
 
 	// Use this for initialization
 	void Start () { }
